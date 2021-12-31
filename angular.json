@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "ng-test1"
+  "defaultProject": "ng-test1",
+  "cli": {
+    "analytics": "6e8f7d6f-6761-4408-83e5-a725abac2466"
+  }
 }
