@@ -12,9 +12,7 @@ export class LikeWidgetComponent implements OnInit {
   @Input() public likes = 0;
   @Input() public id: string = null;
 
-  public fonts = {
-    faThumbsUp
-  }
+  public fonts = { faThumbsUp }
 
   constructor(private uniqueIdService: UniqueIdService) { }
 
